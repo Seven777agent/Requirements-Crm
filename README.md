@@ -1,1 +1,4 @@
-# Requirements-Crm
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
